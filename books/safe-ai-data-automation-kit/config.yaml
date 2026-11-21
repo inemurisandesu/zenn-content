@@ -1,7 +1,7 @@
 title: "壊れないAI・業務データ自動化パイプライン設計と安全なツール公開ガイド"
 summary: "Python標準ライブラリ中心で構築する堅牢な業務データ処理、LLM/RAG投入前の決定的PIIマスキングとチャンキング、さらに規約・セキュリティを厳守した非スクレイピング型Apify Actor（Pay-Per-Event/MCP対応）の実装レシピを検証済みコード付きで解説します。"
 topics: ["python", "automation", "rag", "mcp", "security"]
-published: false
+published: true
 price: 800
 chapters:
   - chapter1
