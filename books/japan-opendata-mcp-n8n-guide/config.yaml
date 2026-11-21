@@ -1,0 +1,11 @@
+title: "国税庁法人番号・gBizINFO・EDINET公式APIで作る日本企業調査MCP＆n8n自動分析ガイド"
+summary: "無断スクレイピングを一切使わず、日本政府の公式オープンデータAPI（国税庁法人番号・経産省gBizINFO・金融庁EDINET v2）をPython標準ライブラリのみで横断統合し、MCPサーバーとn8nワークフローとして安全に自動運用する実践レシピ集。"
+topics: ["python", "mcp", "edinet", "opendata", "n8n"]
+published: true
+price: 1000
+chapters:
+  - chapter1
+  - chapter2
+  - chapter3
+  - chapter4
+  - chapter5
