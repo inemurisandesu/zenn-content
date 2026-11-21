@@ -1,6 +1,6 @@
 ---
 title: "Python標準ライブラリだけで作る、壊れない日本業務CSV集計パイプラインの設計"
-emoji: "🛠️"
+emoji: "🔧"
 type: "tech"
 topics: ["python", "csv", "automation", "dataengineering"]
 published: true

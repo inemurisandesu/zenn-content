@@ -1,6 +1,6 @@
 ---
 title: "OpenAPI 3.xのセキュリティ監査と破壊的変更検知をPython標準ライブラリだけで自動化する"
-emoji: "🛡️"
+emoji: "🔐"
 type: "tech"
 topics: ["python", "openapi", "security", "api", "ci"]
 published: true
