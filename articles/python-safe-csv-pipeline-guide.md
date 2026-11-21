@@ -90,3 +90,11 @@ def parse_amount(raw_value: str) -> Decimal:
 
 より発展的な内容（LLM/RAG投入前の決定的PIIマスキング、見出し保持チャンキング、非スクレイピング型ユーティリティのAPI/MCP化）については、以下のリポジトリでも公開・検証を進めています。
 - [inemurisandesu/apify-rag-data-normalizer](https://github.com/inemurisandesu/apify-rag-data-normalizer)
+
+---
+
+### 関連する実践ガイド（第1章無料公開中）
+
+この記事を含む「壊れない業務データ自動化・PIIマスキング・OpenAPI監査・Apify/MCP公開」の設計とテスト済みコードを一冊にまとめました：
+
+https://zenn.dev/inemuri/books/safe-ai-data-automation-kit

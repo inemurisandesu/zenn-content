@@ -70,3 +70,11 @@ def estimate_tokens(text: str) -> int:
 ## まとめ
 
 RAGの前処理は「外部依存を増やさず、決定的にテストできる純粋Python層」として切り出しておくと、ローカルCLI・社内バッチ・MCP/Apify Actorのいずれにもそのまま載せ替えられます。
+
+---
+
+### 関連する実践ガイド（第1章無料公開中）
+
+この記事を含む「壊れない業務データ自動化・PIIマスキング・OpenAPI監査・Apify/MCP公開」の設計とテスト済みコードを一冊にまとめました：
+
+https://zenn.dev/inemuri/books/safe-ai-data-automation-kit

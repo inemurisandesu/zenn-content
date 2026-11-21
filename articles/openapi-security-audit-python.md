@@ -55,3 +55,11 @@ PRレビューで最も事故が多いのが破壊的変更です。`previous_sp
 ## まとめ
 
 OpenAPIのセキュリティ監査と破壊的変更検知は、外部依存なしの純粋Pythonロジックにしておくことで、GitHub Actions・ローカル開発・AIエージェント向けMCPツールのどこからでも安全に呼び出せます。
+
+---
+
+### 関連する実践ガイド（第1章無料公開中）
+
+この記事を含む「壊れない業務データ自動化・PIIマスキング・OpenAPI監査・Apify/MCP公開」の設計とテスト済みコードを一冊にまとめました：
+
+https://zenn.dev/inemuri/books/safe-ai-data-automation-kit
