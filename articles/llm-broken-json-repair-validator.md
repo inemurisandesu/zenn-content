@@ -55,8 +55,9 @@ LLMパイプラインの安定性は、プロンプトを凝るよりも**「出
 
 ---
 
-### 関連する実践ガイド（第1章無料公開中）
+### 関連する実践ガイド＆実務自動化パック
 
-この記事を含む「壊れない業務データ自動化・PIIマスキング・OpenAPI監査・Apify/MCP公開」の設計とテスト済みコードを一冊にまとめました：
-
-https://zenn.dev/inemuri/books/safe-ai-data-automation-kit
+- **Zenn Book（第1章無料公開中・800円）**：  
+  https://zenn.dev/inemuri/books/safe-ai-data-automation-kit
+- **BOOTH（Python CSV集計＋GAS自動通知＋オフラインPII/JSON修復ツール 3点セット・手順書付き）**：  
+  https://inemuric.booth.pm/items/9195572

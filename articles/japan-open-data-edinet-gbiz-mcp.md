@@ -56,12 +56,11 @@ MCPのstdioトランスポートは標準入力から1行ずつJSON-RPC 2.0を�
 
 ---
 
-### 関連する実践ガイド（第1章無料公開中）
+### 関連する実践ガイド＆すぐ動くスターターキット
 
-この記事の公式API3種横断・ゼロ依存MCPサーバー・n8n並列取得ワークフローの完全解説本はこちら：
-
-https://zenn.dev/inemuri/books/japan-opendata-mcp-n8n-guide
-
-業務データ自動化・PIIマスキング・OpenAPI監査の総合ガイドはこちら：
-
-https://zenn.dev/inemuri/books/safe-ai-data-automation-kit
+- **BOOTH（ZIP一括ダウンロード・n8nワークフローJSON＋テスト＋手順書付き）**：  
+  https://inemuric.booth.pm/items/9195542
+- **Zenn Book（全5章・第1章無料公開）**：  
+  https://zenn.dev/inemuri/books/japan-opendata-mcp-n8n-guide
+- **業務データ自動化・PIIマスキング・OpenAPI監査の総合ガイド**：  
+  https://zenn.dev/inemuri/books/safe-ai-data-automation-kit
